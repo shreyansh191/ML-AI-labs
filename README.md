@@ -1,2 +1,2 @@
 # ML-AI-labs
-Some Labs which I have worked upon(jupyter labs, codelab,etc)
+Some Projects and Labs which I have went through and studied well (jupyter labs, codelabs, .py ,etc)
